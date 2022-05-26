@@ -14,6 +14,6 @@ Este projeto foi desenvolvido com as seguites tecnologias:
 - CSS
 - JavaScript
 
-## Links Uteis
+## Links Úteis
 
 - Fonte: https://fonts.google.com/specimen/Poppins
